@@ -11,7 +11,6 @@
 - 🎓 B.Tech Graduate (2024)  
 - 💻 Skilled in **Java, Spring Boot, React, PostgreSQL, Docker, Git/GitHub**  
 - 🌱 Currently mastering **DSA, Spring, React** and building real-world projects  
-- 🏗️ Developing a **Travel Assistant Web App** (microservices, booking, planner, reviews, payments)  
 - 🌍 From **Tamil Nadu, South India**  
 - ✨ Passionate about **clean code, problem solving, and system design**  
 
@@ -26,7 +25,6 @@
 
 ### 📂 Projects
 - 🚑 [Medi Assist](https://github.com/midhun062001/medi-assist) – Healthcare management app  
-- ✈️ Travel Assistant App – Booking, trip planner, to-do, expense tracker, attractions  
 
 ---
 
@@ -39,7 +37,16 @@
 ---
 
 ### 📈 Contribution Graph
-[![Midhun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=midhun062001&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=midhun062001&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" width="100%"/>
+</p>
+
+---
+
+### 🔥 Streaks & Contributions
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=midhun062001&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
 ---
 
@@ -51,5 +58,6 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="250"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXRhYWZnZjRnZ2Z6bnl0MWRzaTh2Y3Q2M2E4OWl5NTFoMGl5a2F0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="250"/>
 </p>
+
