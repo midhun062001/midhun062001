@@ -1,4 +1,4 @@
-# 👋 Hi There, I'm Midhun  
+# 👋 Hi There, I'm Midhun J
 
 ## 🌟 About Me  
 - 🎓 B.Tech Graduate (2024) passionate about building scalable web applications.  
@@ -16,16 +16,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=midhun062001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=midhun062001&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=midhun062001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-### ✍️ From my Idol  
-<p align="center">
-  <b><i style="font-size:22px;">"Stay Hungry, Stay Foolish."</i></b>  
-  <br/> – <b>Steve Jobs</b>
-</p>
-
----
 
 ## 🚀 Featured Projects  
 
